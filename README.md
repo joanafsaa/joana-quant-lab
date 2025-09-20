@@ -1,27 +1,36 @@
-# joanasaa
+
 # 👋 Hi, I’m Joana Assunção
 
-🎓 Financial Mathematics MSc student | 📊 Financial Analyst | 📈 Aspiring Quant Trader
+🎓 MSc Student in Financial Mathematics | 📊 Financial Analyst | 💻 Aspiring Quant Trader
 
-I'm passionate about derivatives pricing, market structure, and quantitative models.  
-Currently building my portfolio of trading tools, simulations, and pricing models in Python.
-
-### 🔧 Skills & Tools
-- Programming: `Python`, `NumPy`, `Pandas`, `matplotlib`, `SymPy`
-- Quant: Stochastic calculus, BSM model, Greeks, Monte Carlo, PDEs
-- Tools: Git, VSCode, LaTeX
-
-### 📂 Projects (coming soon!)
-- `Black-Scholes-Pricing`: Options pricing and Greeks calculator
-- `Monte Carlo Simulations`: Exotic options and path-dependent models
-- `Market Making Simulator`: Basic order book and quoting engine
-
-### 🌍 Languages
-- Portuguese (native)
-- English (fluent)
-- French (intermediate)
+I’m passionate about the intersection between mathematics, markets, and technology. Currently building a portfolio of projects focused on derivatives pricing, market simulations, and quantitative strategies using Python.
 
 ---
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanaassuncao) | [Email](mailto:joana@email.com)
+## 🔧 Tech Stack
+- **Programming:** Python (NumPy, Pandas, Matplotlib, SciPy), SQL, Git
+- **Quantitative Finance:** Black-Scholes, Greeks, Monte Carlo, Exotic Options, Stochastic Calculus
+- **Other Tools:** LaTeX, GitHub, VS Code
 
+---
+
+## 📂 Projects (coming soon)
+| Project | Description |
+|--------|-------------|
+| `black-scholes-pricing` | Pricing European options using Black-Scholes closed-form formulas, including visualization of Greeks |
+| `monte-carlo-simulations` | Pricing Asian and barrier options using Monte Carlo methods |
+| `market-making-simulator` | Simulating inventory risk and quote updates in a simplified market-making environment |
+| `exotic-options` | Tools to price forward start, quanto and as-you-like-it options with intuitive explanations |
+
+---
+
+## 🧭 Career Goals
+- Join a high-impact Quant Trading or Market Making team
+- Build real-time tools for pricing and strategy simulation
+- Keep learning, iterating and collaborating in fast-paced financial environments
+
+---
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joanaassuncao)
+
+*This GitHub is a work in progress — stay tuned for more projects!*
