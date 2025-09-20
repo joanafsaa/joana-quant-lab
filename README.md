@@ -3,7 +3,6 @@
 ![Quant Finance](https://img.shields.io/badge/Quant--Finance-%23007ACC?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Under_Construction-yellow)
 
-<img src="joana_quant_lab_banner.png" alt="Joana Quant Lab Banner" style="width:100%;"/>
 
 # 👋 Hi, I’m Joana Assunção
 
