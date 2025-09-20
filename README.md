@@ -8,7 +8,7 @@ I’m passionate about the intersection between mathematics, markets, and techno
 ---
 
 ## 🔧 Tech Stack
-- **Programming:** Python (NumPy, Pandas, Matplotlib, SciPy), SQL, Git
+- **Programming:** Python (NumPy, Pandas, Matplotlib, SciPy), SQL, Git, MATLAB, Visual Basic
 - **Quantitative Finance:** Black-Scholes, Greeks, Monte Carlo, Exotic Options, Stochastic Calculus
 - **Other Tools:** LaTeX, GitHub, VS Code
 
