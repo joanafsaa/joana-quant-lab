@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Quant Finance](https://img.shields.io/badge/Quant--Finance-%23007ACC?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Under_Construction-yellow)
 
 # 👋 Hi, I’m Joana Assunção
 
