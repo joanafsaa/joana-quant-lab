@@ -31,6 +31,6 @@ I’m passionate about the intersection between mathematics, markets, and techno
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joanasilvaassunção/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joanasilvaassunção/) [Email](joanafilipa_sa@hotmail.com)
 
 *This GitHub is a work in progress — stay tuned for more projects!*
